@@ -1,6 +1,6 @@
 Name:		texlive-pst-moire
 Version:	60411
-Release:	1
+Release:	2
 Summary:	A PSTricks package to draw moire patterns
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-moire
