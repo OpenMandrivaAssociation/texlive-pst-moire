@@ -3,7 +3,7 @@ Version:	60411
 Release:	2
 Summary:	A PSTricks package to draw moire patterns
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pst-moire
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pst-moire
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-moire.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pst-moire.doc.r%{version}.tar.xz
